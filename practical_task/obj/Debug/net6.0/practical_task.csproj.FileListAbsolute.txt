@@ -1,0 +1,15 @@
+C:\Users\pelew\Desktop\HomeWork\practical_task\bin\Debug\net6.0\practical_task.exe
+C:\Users\pelew\Desktop\HomeWork\practical_task\bin\Debug\net6.0\practical_task.deps.json
+C:\Users\pelew\Desktop\HomeWork\practical_task\bin\Debug\net6.0\practical_task.runtimeconfig.json
+C:\Users\pelew\Desktop\HomeWork\practical_task\bin\Debug\net6.0\practical_task.dll
+C:\Users\pelew\Desktop\HomeWork\practical_task\bin\Debug\net6.0\practical_task.pdb
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.csproj.AssemblyReference.cache
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.AssemblyInfoInputs.cache
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.AssemblyInfo.cs
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.csproj.CoreCompileInputs.cache
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.dll
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\refint\practical_task.dll
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.pdb
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\practical_task.genruntimeconfig.cache
+C:\Users\pelew\Desktop\HomeWork\practical_task\obj\Debug\net6.0\ref\practical_task.dll
